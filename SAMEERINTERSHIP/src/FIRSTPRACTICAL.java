@@ -4,5 +4,6 @@ public class FIRSTPRACTICAL {
 	{
 		System.out.println("first project");
 		System.out.println("unstaged");
+		System.out.println("unstaged check");
 	}
 }
